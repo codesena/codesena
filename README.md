@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhil-verma
+- 👋 Hi, I’m @Nikhil-Verma
 - 👀 I’m interested in exploring something new, something better
 - 🌱 I’m currently learning machilne learning
 - 💞️ I’m looking to collaborate on ...
